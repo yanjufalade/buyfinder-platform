@@ -26,9 +26,13 @@ Verification
 ## Marketplace
 ### Responsibilities
 Purchase Requests
+
 Categories
+
 Search
+
 Attachments
+
 Images
 
 ---
@@ -37,8 +41,11 @@ Images
 ## Offers
 ### Responsibilities
 Submit Offer
+
 Edit Offer
+
 Withdraw Offer
+
 Award Offer
 
 --- 
@@ -47,8 +54,11 @@ Award Offer
 ## Payments
 ### Responsibilities
 Payment Gateway
+
 Escrow
+
 Transactions
+
 Refunds
 
 ---
@@ -57,7 +67,9 @@ Refunds
 ## Delivery
 ### Responsibilities
 Delivery Confirmation
+
 Inspection
+
 Completion
 
 ---
@@ -66,7 +78,9 @@ Completion
 ## Disputes
 ### Responsibilities
 Complaints
+
 Evidence
+
 Resolution
 
 ---
@@ -75,8 +89,11 @@ Resolution
 ## Notifications
 ### Responsibilities
 Email
+
 SMS
+
 Push
+
 Templates
 
 ---
@@ -85,7 +102,9 @@ Templates
 ## Analytics
 ### Responsibilities
 Statistics
+
 Reports
+
 Dashboards
 
 ---
@@ -94,6 +113,9 @@ Dashboards
 ## Administration
 ### Responsibilities
 Audit
+
 Policies
+
 Feature Flags
+
 Configuration
