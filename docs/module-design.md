@@ -3,13 +3,21 @@
 ## Identity
 ### Responsibilities
 Registration
+
 Authentication
+
 Authorization
+
 Roles
+
 Permissions
+
 Subscription
+
 Trust
+
 Verification
+
 
 --- 
 
